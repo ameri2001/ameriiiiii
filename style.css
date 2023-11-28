@@ -1,1 +1,2 @@
-::backdrop.red
+body{background-attachment: fixed};
+:focus-within{};
